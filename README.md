@@ -25,10 +25,10 @@
      This is the list of my skills and tools I am studying!
 -->
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,js,nodejs,react,jenkins,cpp,cs,html,css,bootstrap,php,androidstudio,ps,notion)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
